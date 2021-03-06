@@ -4,6 +4,5 @@ Customer churn refers to when a customer (player, subscriber, user, etc.) ceases
 
 ## Data
 
- IBM Sample Data Sets taken from https://www.kaggle.com/blastchar/telco-customer-churn
+ IBM Sample Data Sets WA_Fn-UseC_-Telco-Customer-Churn.csv taken from https://www.kaggle.com/blastchar/telco-customer-churn
 
-The raw data contains 7043 rows (customers) and 21 columns (features).
